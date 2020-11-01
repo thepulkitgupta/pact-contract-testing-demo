@@ -26,16 +26,11 @@ public class ClientPactTest {
     @Rule
     public PactProviderRule mockProvider=new PactProviderRule("ExampleProvider",this);
 
-
-    private String name;
-    private String age;
-
     // This defines the expected interaction for out test
     @Pact(consumer="ExampleConsumer")
     public RequestResponsePact createPact(PactDslWithProvider builder)
     {
-        name="Tiklup";
-        age="2";
+
         return builder
                 .given("")
                 .uponReceiving("a request for getJson")
