@@ -1,0 +1,4 @@
+com/example/ConsumerProducer/ClientPactTest.java
+ com.example.ConsumerProducer.ClientPactTest
+com/example/ConsumerProducer/ConsumerProducerApplicationTests.java
+ com.example.ConsumerProducer.ConsumerProducerApplicationTests
