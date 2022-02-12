@@ -6,7 +6,6 @@ import au.com.dius.pact.consumer.junit.PactProviderRule;
 import au.com.dius.pact.consumer.junit.PactVerification;
 import au.com.dius.pact.core.model.RequestResponsePact;
 import au.com.dius.pact.core.model.annotations.Pact;
-import io.restassured.response.Response;
 import org.json.JSONObject;
 import org.junit.Assert;
 import org.junit.Rule;
