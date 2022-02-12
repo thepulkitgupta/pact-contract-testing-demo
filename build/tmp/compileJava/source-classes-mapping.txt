@@ -1,6 +1,6 @@
 com/example/ConsumerProducer/ConsumerProducerApplication.java
  com.example.ConsumerProducer.ConsumerProducerApplication
-com/example/ConsumerProducer/Client.java
- com.example.ConsumerProducer.Client
 com/example/ConsumerProducer/Controller.java
  com.example.ConsumerProducer.Controller
+com/example/ConsumerProducer/Client.java
+ com.example.ConsumerProducer.Client
